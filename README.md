@@ -3,7 +3,7 @@
 This is a project of the FreeCodeCamp on Responsive Web Design.
 The goal of the project is to learn how to use HTML, CSS and Responsive Design.
 
-![image](Screenshot 2019-01-16 at 14.58.10.png)
+![image](/Screenshot 2019-01-16 at 14.58.10.png)
 
 ## How to run the application?
 
